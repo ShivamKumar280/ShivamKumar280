@@ -136,3 +136,6 @@ A Java-based travel booking management system with customer and admin functional
 <div align="center">
   <sub>Thanks for visiting my profile!</sub>
 </div>
+## 🟡 Pac-Man Contribution Graph
+
+![Pac-Man](https://raw.githubusercontent.com/ShivamKumar280/ShivamKumar280/output/pacman-contribution-graph.svg)
