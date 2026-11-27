@@ -92,6 +92,20 @@ A Java-based travel booking management system with customer and admin functional
 
 [![View repository](https://img.shields.io/badge/View_Project_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ShivamKumar280/TravelTourismManagementSystem)
 
+## 🌐 My Portfolio
+
+Explore my personal portfolio website to learn more about me, my technical skills, projects, and education.
+
+<p align="center">
+  <a href="https://shivamkumar280.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://shivamkumar280.github.io/portfolio/">🔗 View Live Portfolio</a>
+</p>
+
 ## GitHub Statistics
 
 <div align="center">
