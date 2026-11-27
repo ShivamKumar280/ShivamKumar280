@@ -103,7 +103,7 @@ Explore my personal portfolio website to learn more about me, my technical skill
 </p>
 
 <p align="center">
-  <a href="https://shivamkumar280.github.io/portfolio/">🔗 View Live Portfolio</a>
+  <a href="https://shivamkumar280.github.io/portfolio/"></a>
 </p>
 
 ## GitHub Statistics
